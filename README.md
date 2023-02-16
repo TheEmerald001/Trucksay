@@ -5,7 +5,7 @@
 
 ## Link
 
-- [Repo](https://github.com/abdu-10/trucksay/ "<project-name> Repo")
+- [Repo](https://github.com/Theemerald001/Trucksay/ "<project-name> Repo")
 
 ## Available Commands
 
@@ -24,9 +24,8 @@ The app is built using `create-react-app` so this command Runs the app in Develo
 
 ## Author
 
-**abdu**
+**Steve**
 
-- [Profile](https://github.com/abdu-10 "Abdu")
 
 
 Give a ⭐️ if you like this project!
